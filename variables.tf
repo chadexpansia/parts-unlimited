@@ -1,3 +1,9 @@
+variable "AWS_ACCESS_KEY" {
+}
+
+variable "AWS_SECRET_KEY" {
+}
+
 variable "app-vpc" {
     default = "vpc-032d6beea790eb163"
 }
